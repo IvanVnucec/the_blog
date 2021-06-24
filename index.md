@@ -1,8 +1,9 @@
-# Ivan Vnučec - Blog
+# Blog
 ## About me:
 TODO
 
 ## Projects
+TODO
 
 ## Contact
 Ivan Vnučec <br>
